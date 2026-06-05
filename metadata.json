@@ -1,0 +1,6 @@
+{
+  "name": "Coin Strategy Lab",
+  "description": "专业概率实验与资金管理测试工具 (Coin Strategy Lab - Professional)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
